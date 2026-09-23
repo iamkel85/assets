@@ -1,0 +1,113 @@
+/* Onde · colour ramps
+ * Raw values, 1:1 with the Figma variables.
+ * Source: brand manual v1.1, pages 32 and 36.
+ */
+
+:root {
+  /* navy */
+  --onde-navy-050: #F3F7FF;
+  --onde-navy-100: #E5EBF8;
+  --onde-navy-150: #D6DEEE;
+  --onde-navy-200: #C8D1E4;
+  --onde-navy-300: #B2BED6;
+  --onde-navy-400: #9DABC8;
+  --onde-navy-500: #8292B3;
+  --onde-navy-600: #677799;
+  --onde-navy-700: #485878;
+  --onde-navy-800: #2A3753;
+  --onde-navy-900: #0D1526;
+
+  /* water */
+  --onde-water-050: #DFFDFF;
+  --onde-water-100: #C7F3FF;
+  --onde-water-150: #AAE9FF;
+  --onde-water-200: #89DFFF;
+  --onde-water-300: #57D4FF;
+  --onde-water-400: #09BCEB;
+  --onde-water-500: #05A1CA;
+  --onde-water-600: #0384A6;
+  --onde-water-700: #05627B;
+  --onde-water-800: #013E50;
+  --onde-water-900: #001923;
+
+  /* gold */
+  --onde-gold-050: #FFF4E3;
+  --onde-gold-100: #FFE6C7;
+  --onde-gold-150: #FFD5A7;
+  --onde-gold-200: #FFC483;
+  --onde-gold-300: #FAAB48;
+  --onde-gold-400: #F49B10;
+  --onde-gold-500: #CA7F02;
+  --onde-gold-600: #A66701;
+  --onde-gold-700: #7C4C01;
+  --onde-gold-800: #502F00;
+  --onde-gold-900: #231200;
+
+  /* neutral */
+  --onde-neutral-000: #FFFFFF;
+  --onde-neutral-050: #F5F6FB;
+  --onde-neutral-100: #EEEFF3;
+  --onde-neutral-200: #D5D6DA;
+  --onde-neutral-300: #BCBDC2;
+  --onde-neutral-400: #A9AAAF;
+  --onde-neutral-500: #909298;
+  --onde-neutral-600: #75777E;
+  --onde-neutral-700: #565860;
+  --onde-neutral-800: #353741;
+  --onde-neutral-900: #0C0E18;
+
+  /* success */
+  --onde-success-050: #E3FFE8;
+  --onde-success-100: #CCF9D4;
+  --onde-success-150: #B2F0BE;
+  --onde-success-200: #98E7A9;
+  --onde-success-300: #6FD889;
+  --onde-success-400: #25C15F;
+  --onde-success-500: #00B050;
+  --onde-success-600: #009040;
+  --onde-success-700: #006B2D;
+  --onde-success-800: #00451A;
+  --onde-success-900: #001D07;
+
+  /* warning */
+  --onde-warning-050: #FFF9B7;
+  --onde-warning-100: #FDEE8B;
+  --onde-warning-150: #F9E45B;
+  --onde-warning-200: #ECD300;
+  --onde-warning-300: #D6BF00;
+  --onde-warning-400: #C1AC00;
+  --onde-warning-500: #A59301;
+  --onde-warning-600: #877801;
+  --onde-warning-700: #645900;
+  --onde-warning-800: #403800;
+  --onde-warning-900: #1A1600;
+
+  /* error */
+  --onde-error-050: #FEF4F3;
+  --onde-error-100: #FEE4E0;
+  --onde-error-150: #FFD2CB;
+  --onde-error-200: #FFBFB5;
+  --onde-error-300: #FFA194;
+  --onde-error-400: #FF7F70;
+  --onde-error-500: #FC473B;
+  --onde-error-600: #E7000B;
+  --onde-error-700: #A80106;
+  --onde-error-800: #6F0002;
+  --onde-error-900: #320000;
+
+  /* info */
+  --onde-info-050: #F3F7FF;
+  --onde-info-100: #E1ECFF;
+  --onde-info-150: #CDDFFF;
+  --onde-info-200: #B9D2FF;
+  --onde-info-300: #9BBEFF;
+  --onde-info-400: #7DA9FF;
+  --onde-info-500: #548CFF;
+  --onde-info-600: #155DFC;
+  --onde-info-700: #0043D4;
+  --onde-info-800: #00298D;
+  --onde-info-900: #000E43;
+
+  /* ground */
+  --onde-ground-cream-print: #F0EBE0;
+}
